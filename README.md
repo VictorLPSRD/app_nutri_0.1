@@ -2,7 +2,7 @@
 Bem-vindo ao projetoapp_nutri_0.1 em Python, uma aplicação desenvolvida em Python utilizando as bibliotecas,<br> CustomTkinter, Tkinter, Openpyxl e SQLite3. Este projeto visa fornecer uma descrição<br> detalhada e guia de utilização para facilitar o entendimento da aplicação e suas funcionalidades.
 
 # Visão Geral
-O Projeto XYZ é uma aplicação que [breve descrição sobre a finalidade ou objetivo do projeto].
+O Projeto é uma aplicação que permite fazer calculo imc entre outras aplicações alem de permite criar excel para gera dietas.
 
 # Tecnologias Utilizadas
 -**Python**: A linguagem de programação principal para o desenvolvimento da aplicação.<br>
@@ -20,7 +20,7 @@ Clone o repositório:
 **git clone https://github.com/seu-usuario/projeto-xyz.git**<br>
 Navegue até o diretório do projeto:<br>
 
-cd projeto-xyz<br>
+cd projeto<br>
 Execute a aplicação:<br>
 
 **python main.py**<br>
@@ -29,4 +29,4 @@ Certifique-se de que todas as dependências estão instaladas corretamente.<br>
 Explore as funcionalidades da aplicação através da interface gráfica.<br>
 
 # Contribuição
-Se você deseja contribuir para o Projeto XYZ, sinta-se à vontade para criar pull requests ou issues no repositório do GitHub.
+Se você deseja contribuir para o Projeto , sinta-se à vontade para criar pull requests ou issues no repositório do GitHub.
