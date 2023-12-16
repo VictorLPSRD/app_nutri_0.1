@@ -1,2 +1,32 @@
-# app_nutri_0.1
-Criação de um app voltado para área de nutrição,  onde podemos calcular o Índice de Massa Corporal (IMC) e o Percentual de Gordura Corporal (BF - Body Fat).  Além de ter conexão com o Excel para criar planilhas de dieta e com banco de dados para fazer registros do usuário.     
+# app_nutri_0.1 em Python
+Bem-vindo ao projetoapp_nutri_0.1 em Python, uma aplicação desenvolvida em Python utilizando as bibliotecas,<br> CustomTkinter, Tkinter, Openpyxl e SQLite3. Este projeto visa fornecer uma descrição<br> detalhada e guia de utilização para facilitar o entendimento da aplicação e suas funcionalidades.
+
+# Visão Geral
+O Projeto XYZ é uma aplicação que [breve descrição sobre a finalidade ou objetivo do projeto].
+
+# Tecnologias Utilizadas
+-**Python**: A linguagem de programação principal para o desenvolvimento da aplicação.<br>
+-**CustomTkinter**: Uma biblioteca customizada baseada no Tkinter, utilizada para criar interfaces gráficas.<br>
+-**Tkinter**: Biblioteca padrão para interfaces gráficas em Python.<br>
+-**Openpyx**l: Biblioteca para manipulação de arquivos Excel (xlsx).<br>
+-**SQLite3**: Sistema de gerenciamento de banco de dados embutido na aplicação.<br>
+# Instalação
+Certifique-se de ter o Python instalado em sua máquina. Em seguida, instale as bibliotecas necessárias:
+
+**pip install customtkinter tkinter openpyxl**
+# Como Usar
+Clone o repositório:
+
+**git clone https://github.com/seu-usuario/projeto-xyz.git**<br>
+Navegue até o diretório do projeto:<br>
+
+cd projeto-xyz<br>
+Execute a aplicação:<br>
+
+**python main.py**<br>
+Certifique-se de que todas as dependências estão instaladas corretamente.<br>
+
+Explore as funcionalidades da aplicação através da interface gráfica.<br>
+
+# Contribuição
+Se você deseja contribuir para o Projeto XYZ, sinta-se à vontade para criar pull requests ou issues no repositório do GitHub.
