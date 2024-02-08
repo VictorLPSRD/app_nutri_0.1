@@ -1,9 +1,9 @@
 # app_nutri_0.1 em Python
 Bem-vindo ao projetoapp_nutri_0.1 em Python, uma aplicação desenvolvida em Python utilizando as bibliotecas,<br> CustomTkinter, Tkinter, Openpyxl e SQLite3. Este projeto visa fornecer uma descrição<br> um aplicativo que permite fazer alguns calculos como imc, ver % de gordura alem de pode criar dietas.
 
-![Screenshot da Página](login.png)  ![Screenshot da Página](registra.png)
-![Screenshot da Página](calculo.png)  ![Screenshot da Página](mresultado.png)
-![Screenshot da Página](areadedieta.png)
+![Screenshot da Página](login.jpg)  ![Screenshot da Página](registra.jog)
+![Screenshot da Página](calculo.jpg)  ![Screenshot da Página](mresultado.jpg)
+![Screenshot da Página](areadedieta.jpg)
 
 # Visão Geral
 O Projeto é uma aplicação que permite fazer calculo imc entre outras aplicações alem de permite criar excel para gera dietas.
